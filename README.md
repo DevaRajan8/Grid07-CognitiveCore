@@ -7,7 +7,7 @@ A three-phase AI pipeline implementing vector-based persona routing, autonomous 
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/DevaRajan8/Grid07-CognitiveCore
 cd grid07
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
